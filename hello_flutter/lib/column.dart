@@ -11,8 +11,16 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("ListView"),
         ),
-        body:Center(
-          
+        body:Column(
+          //默认居中对齐
+          crossAxisAlignment: CrossAxisAlignment.start,
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Text("data1"),
+            Text("data2"),
+            Text("data3"),
+            Text("data4"),
+          ],
         )
       ),
     );
