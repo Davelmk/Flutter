@@ -12,7 +12,10 @@ import 'package:flutter/material.dart';
 // import './animated_container.dart';
 // import './fade_widget.dart';
 // import './drawer.dart';
-import './tabs.dart';
+// import './tabs.dart';
+// import './form.dart';
+// import './textfield.dart';
+import './text_editing_controller.dart';
 
 /* void main() => runApp(
   MyApp(items: List<String>.generate(
