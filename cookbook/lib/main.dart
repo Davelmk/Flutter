@@ -10,7 +10,9 @@ import 'package:flutter/material.dart';
 // import './dismissable_list.dart';
 // import './network.dart';
 // import './animated_container.dart';
-import './fade_widget.dart';
+// import './fade_widget.dart';
+// import './drawer.dart';
+import './tabs.dart';
 
 /* void main() => runApp(
   MyApp(items: List<String>.generate(
