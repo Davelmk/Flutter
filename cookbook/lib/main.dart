@@ -15,7 +15,11 @@ import 'package:flutter/material.dart';
 // import './tabs.dart';
 // import './form.dart';
 // import './textfield.dart';
-import './text_editing_controller.dart';
+// import './text_editing_controller.dart';
+// import './sliver_appBar.dart';
+// import './hero.dart';
+// import './named_route.dart';
+import './arguments .dart';
 
 /* void main() => runApp(
   MyApp(items: List<String>.generate(

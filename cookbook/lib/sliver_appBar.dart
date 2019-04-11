@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
               title: Text(title),
               floating: true,
               flexibleSpace: Placeholder(),
-              expandedHeight: 200,
+              expandedHeight: 56,
             ),
             //SliverGrid
             SliverList(
